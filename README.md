@@ -1,6 +1,6 @@
 # COVID-Efficientnet &rarr; a Pytorch upgrade of the [COVID-Next](https://github.com/velebit-ai/COVID-Next-Pytorch) and COVID-Net
 
-Inspired by COVID-Next and the efficiency and mobility of Efficientnet, I are now open sourcing the upgraded Pytorch implementation of both called COVID-Efficientnet.
+Inspired by COVID-Next and the efficiency and mobility of Efficientnet, we are now open sourcing the upgraded Pytorch implementation of both called COVID-Efficientnet.
 
 COVID-Efficientnet features an architecture that builds upon Efficientnet b7 architecture, an AutoML architecture for optimizing both accuracy and mobility.
 
